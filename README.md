@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋! I'm Biplaba</h1>
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3>
-- 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [@COPY CART](https://github.com/bips1996/Copycart_Backend) project.<br>
+- 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [COPY CART](https://github.com/bips1996/Copycart_Backend.git) project.<br>
 - 🔭 Currently learning Distributed Computing<br>
 - 💻 Looking to collaborate with algorithm & data structure enthusiasts<br>
 
-<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook&show_icons=true&theme=radical"></img>
+<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=radical"></img>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></img>
 <br>
 <br>
