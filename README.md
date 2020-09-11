@@ -16,8 +16,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </p>
 <br>
-<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" /></img>
-<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/> </img>
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" />
+<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/> 
 
 
 <h3 align="center" ><br><br><br>Connect with me</h3>
