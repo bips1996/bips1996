@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋! I'm Biplaba</h1>
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3>
-- 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [COPY CART](https://github.com/bips1996/Copycart_Backend/) project.<br>
+- 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [COPY CART](https://github.com/bips1996/Copycart_Backend/)  project.<br>
 - 🔭 Currently learning Distributed Computing<br>
 - 💻 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 <h3 align="center">Languages and Tools:<br><br></h3>  
@@ -20,7 +20,7 @@
 <img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/> </img>
 
 <br><br><br>
-<h3 align="center" >Connect with me<h3>
+<h3 align="center" >Connect with me</h3>
 <p align="center">
     <a href="https://biplabas.com_" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bips1996_" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/bips96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bips1996" height="30" width="30" /></a>
