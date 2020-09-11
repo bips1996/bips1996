@@ -5,8 +5,8 @@
 - 🔭 Currently learning Distributed Computing<br>
 - 💻 Looking to collaborate with algorithm & data structure enthusiasts<br>
 
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook&show_icons=true&theme=radical"></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></img>
+<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook&show_icons=true&theme=radical"></img>
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></img>
 <br>
 <br>
 <br>
