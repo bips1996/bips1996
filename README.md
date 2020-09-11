@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋! I'm Biplaba</h1>
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3>
-- 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [@COPY CART](https://github.com/bips1996/Copycart_Backend) project.
-- 🔭 Currently learning Distributed Computing
+- 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [@COPY CART](https://github.com/bips1996/Copycart_Backend) project.<br>
+- 🔭 Currently learning Distributed Computing<br>
 - 💻 Looking to collaborate with algorithm & data structure enthusiasts<br>
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook&show_icons=true&theme=radical"></img>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></img>
 <br>
-
-<h3 align="center"><br><br>Languages and Tools:<br><br></h3>  
+<br>
+<br>
+<h3 align="center"><br><br><br><br><br>Languages and Tools:<br><br></h3>  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
