@@ -4,7 +4,7 @@
 - 🥅 2020 Goals: Avoid Corona😊, Get placed🤵, Complete [COPY CART](https://github.com/bips1996/Copycart_Backend/) project.<br>
 - 🔭 Currently learning Distributed Computing<br>
 - 💻 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
-<h3 align="center"><br><br><br><br><br>Languages and Tools:<br><br></h3>  
+<h3 align="center">Languages and Tools:<br><br></h3>  
 <p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -16,7 +16,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </p>
 <br>
-<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"></img>
+<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/> </img>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Anurag's github stats" /></img>
 <br>
 <h3 align="center" >Connect with me<h3>
