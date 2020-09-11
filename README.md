@@ -23,7 +23,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 <h3 align="center" >  Connect with me </h3>
 <p align="center">
-    <a href="https://biplabas.com_" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bips1996_" height="30" width="30" /></a>
+    <a href="https://biplabas.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bips1996_" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/bips96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bips1996" height="30" width="30" /></a>
     <a href="https://www.facebook.com/biplab.sam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bips1996" height="30" width="30" /></a>
     <a href="https://www.instagram.com/i_am__biplab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bips1996" height="30" width="30" /></a>
