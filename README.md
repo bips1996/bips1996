@@ -2,8 +2,9 @@
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
 - 📆 2020 Goals: Avoid Corona😊, Get placed🤵, Travel a new place✈.<br>
-- 💻 Currently learning Distributed Computing<br>
+- 💻 Currently learning Distributed Computing + Cryptography -> Block Chain 📓 <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
+
 <h3 align="center">Languages and Tools:<br><br></h3>  
 <p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -18,7 +19,7 @@
 <br>
 <p>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" />
-<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/> 
+<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/>
 </p>
 <br><br><br><br><br><br><br><br><br><br>
 <h3 align="center" >  Connect with me </h3>
