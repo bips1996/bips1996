@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋! I'm Biplaba</h1>
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
-- 📆 2020 Goals: Avoid Corona😊, Get placed🤵, Travel a new place✈.<br>
+- 📆 2020 Goals: Avoid Corona😊, Get placed🤵☑️, Travel a new place✈.<br>
 - 💻 Currently learning Distributed Computing + Cryptography -> Block Chain 📓 <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 
