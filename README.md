@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
 - 📆 2021 Goals: Avoid Corona_1.0 && 2.0😊,Complete Sapiens📚, Travel a new place✈.<br>
-- 💻 Currently Working as Intern -> Backend development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
+- 💻 Currently Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 
 <h3 align="center">Languages and Tools:<br><br></h3>  
