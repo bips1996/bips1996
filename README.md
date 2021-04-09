@@ -1,9 +1,9 @@
 
 ![Design and Development](https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+
+<h1>Biplaba Samantaray <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bips1996">
-</a>
-<h1>Biplaba Samantaray</h1>
+</a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
 <img align="right" height="30%" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
