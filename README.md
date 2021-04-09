@@ -21,8 +21,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 | Java Script | MongoDB | React | | |
 
 ## Project Dashboard
-<div class="github-card" data-github="bips1996/CheckersGame-Minimax" data-width="400" data-height="" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+
 
 ## Git stats
 
