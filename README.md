@@ -1,9 +1,10 @@
 
 ![Design and Development](https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
-<h1 align="center">Hi there 👋! I'm Biplaba</h1>
+<h1>Biplaba Samantaray</h1>
 
-<h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
+<h3>I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
 
+## Goals
 - 📆 2021 Goals: Avoid Corona_1.0 && 2.0😊,Complete Sapiens📚, Travel a new place✈.<br>
 - 💻 Currently Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
