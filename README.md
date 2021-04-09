@@ -12,7 +12,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 - 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Languages and Tools
-<p align="center">
+<p>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -30,7 +30,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 <br><br><br><br><br><br><br><br><br><br>
 
 ## Connect with me 
-<p align="center">
+<p >
     <a href="https://biplabas.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bips1996_" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/bips96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bips1996" height="30" width="30" /></a>
     <a href="https://www.facebook.com/biplab.sam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bips1996" height="30" width="30" /></a>
