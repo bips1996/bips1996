@@ -6,11 +6,13 @@
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
-<img align="right" height="200em" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
 ## Goals 2021
 - Read Sapiens
 - Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
 - Avoid Corona😊 +Travel a new place✈.
+
+<img align="right" height="200em" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ## Current Status
 - 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
