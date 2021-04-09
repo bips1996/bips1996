@@ -1,5 +1,5 @@
 
-(https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
+![Design and Development](https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
 <h1 align="center">Hi there 👋! I'm Biplaba</h1>
 
 <h3 align="center">I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
