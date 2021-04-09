@@ -13,8 +13,12 @@ I'm a Full stack Developer, conservationist and competitive coder!
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Languages and Tools
 
-| Languages      | DBMS        | Web Services     | Version Control |
-| :---           |    :----:   |          :---:   | ----:           |
+| Languages      | DBMS        | Web Services     | Version Control | Others |
+| :---           |    :----:   |          :---:   | :----:           | ---:  |
+| C++ | MySQL | Node JS | Github | MLFlow |
+| Java | SQLite | GraphQL | Bitbucket | Docker |
+| Python | Postgres | Fast Api | DVC | GOCD |
+| Java Script | MongoDB | React | | Solidity |
 
 
 
