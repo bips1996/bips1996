@@ -5,7 +5,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 
 ## Goals 2021
 - Read Sapiens
-- Learn AWS,CI/CD
+- Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
 - Avoid Corona😊 +Travel a new place✈.
 
 ## Current Status
@@ -28,7 +28,8 @@ I'm a Full stack Developer, conservationist and competitive coder!
 <img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/>
 </p>
 <br><br><br><br><br><br><br><br><br><br>
-<h3 align="center" >  Connect with me </h3>
+
+## Connect with me 
 <p align="center">
     <a href="https://biplabas.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bips1996_" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/bips96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bips1996" height="30" width="30" /></a>
