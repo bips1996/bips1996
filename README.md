@@ -1,15 +1,15 @@
 
 ![Design and Development](https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
 <h1>Biplaba Samantaray</h1>
-
-<h3>I'm a Full stack Developer, conservationist and competitive coder!</h3><br><br>
-
-## Goals
-- 📆 2021 Goals: Avoid Corona_1.0 && 2.0😊,Complete Sapiens📚, Travel a new place✈.<br>
-- 💻 Currently Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
+I'm a Full stack Developer, conservationist and competitive coder!</h3><br>
+## Goals 2021
+- Read Sapiens
+- Learn AWS,CI/CD
+- Avoid Corona😊 +Travel a new place✈.
+## Current Status
+- 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
-
-<h3 align="center">Languages and Tools:<br><br></h3>  
+## Languages and Tools
 <p align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
