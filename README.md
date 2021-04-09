@@ -11,7 +11,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 ## Current Status
 - 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
-## Languages and Tools
+## Skills
 
 | Languages      | DBMS        | Web Services     | Version Control | Others |
 | :---           |    :----:   |          :---:   | :----:           | ---:  |
