@@ -11,7 +11,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 - Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
 - Avoid Corona😊 +Travel a new place✈.
 
-<img align="right" height="200em" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 ## Current Status
@@ -20,7 +20,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 ## Skills
 
 | Languages      | DBMS        | Web Services     | Version Control | Others |
-| :--------------           |    :----:   |          :---:   | :----:           | :---:  |
+| :---           |    :----:   |          :---:   | :----:           | :---:  |
 | C++ | MySQL | Node JS | Github | MLFlow |
 | Java | SQLite | GraphQL | Bitbucket | Docker |
 | Python | Postgres | Fast Api | DVC | GOCD |
