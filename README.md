@@ -6,7 +6,7 @@
 <h1>Biplaba Samantaray</h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
-<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" height="30%" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
 ## Goals 2021
 - Read Sapiens
 - Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
