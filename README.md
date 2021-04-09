@@ -5,7 +5,7 @@
 </a>
 [Ÿ HŸPE]: https://yhype.me
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
-<h1>Biplaba Samantaray [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter</h1>
+<h1>Biplaba Samantaray</h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
 ## Goals 2021
