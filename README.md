@@ -1,10 +1,8 @@
 
 ![Design and Development](https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+    <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a>
-[Ÿ HŸPE]: https://yhype.me
-![](https://hit.yhype.me/github/profile?user_id=1849174)
 <h1>Biplaba Samantaray</h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
