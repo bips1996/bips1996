@@ -14,28 +14,15 @@ I'm a Full stack Developer, conservationist and competitive coder!
 ## Skills
 
 | Languages      | DBMS        | Web Services     | Version Control | Others |
-| :---           |    :----:   |          :---:   | :----:           | ---:  |
+| :---           |    :----:   |          :---:   | :----:           | :---:  |
 | C++ | MySQL | Node JS | Github | MLFlow |
 | Java | SQLite | GraphQL | Bitbucket | Docker |
 | Python | Postgres | Fast Api | DVC | GOCD |
-| Java Script | MongoDB | React | | Solidity |
+| Java Script | MongoDB | React | | |
 
-
-
-
-<p>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-</p>
-<br>
-
+## Project Dashboard
+<div class="github-card" data-github="bips1996/CheckersGame-Minimax" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 ## Git stats
 
 <p>
