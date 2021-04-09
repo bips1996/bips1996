@@ -20,7 +20,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 ## Skills
 
 | Languages      | DBMS        | Web Services     | Version Control | Others |
-| :---           |    :----:   |          :---:   | :----:           | :---:  |
+| :--------------           |    :----:   |          :---:   | :----:           | :---:  |
 | C++ | MySQL | Node JS | Github | MLFlow |
 | Java | SQLite | GraphQL | Bitbucket | Docker |
 | Python | Postgres | Fast Api | DVC | GOCD |
