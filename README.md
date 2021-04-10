@@ -26,7 +26,7 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 - 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a> <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Skills
-<p>
+
 | Languages      | DBMS        | Web Services     | Version Control | Others |
 | :---           |    :----:   |          :---:   | :----:           | :---:  |
 | C++ | MySQL | Node JS | Github | MLFlow |
