@@ -6,8 +6,7 @@
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.
-
-<br>
+<br><br>
 <p>
 <a href="https://www.linkedin.com/in/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
 <a href="https://www.linkedin.com/in/"><img height=27em src="https://github.com/bips1996/bips1996/blob/master/icons/portfolio.png" /></a> &nbsp &nbsp
