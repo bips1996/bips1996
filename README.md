@@ -8,7 +8,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 
 <p>
     
-[![Resume]()]()
+[![Resume](https://github.com/bips1996/bips1996/blob/master/icons/resume.png)]()
 
 
 ## Goals 2021
