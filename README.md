@@ -36,7 +36,7 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 | Java Script | MongoDB | React | | Socket.io | | 
     
 
-
+</code>
 ## Git stats
 
 <p>
