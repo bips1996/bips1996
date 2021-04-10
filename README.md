@@ -1,10 +1,3 @@
-
-<style>
-table {
-    width:100%;
-}
-</style>
-
 ![Design and Development](https://github.com/bips1996/bips1996/blob/master/wallpaper.png)
 
 <h1>Biplaba Samantaray <a href="https://github.com/antonkomarev/github-profile-views-counter">
