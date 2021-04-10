@@ -6,12 +6,14 @@
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
+
 <p>
-<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
-<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/portfolio.png" /></a> &nbsp &nbsp
-<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
-<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/facebook.png" /></a> &nbsp &nbsp
-<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/instagram.png" /></a></p>
+<a href="https://www.linkedin.com/in/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
+<a href="https://www.linkedin.com/in/"><img height=27em src="https://github.com/bips1996/bips1996/blob/master/icons/portfolio.png" /></a> &nbsp &nbsp
+<a href="https://www.linkedin.com/in/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/email.png" /></a> &nbsp &nbsp
+<a href="https://www.linkedin.com/in/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/linkedin.png" /></a> &nbsp &nbsp
+<a href="https://www.linkedin.com/in/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/facebook.png" /></a>&nbsp &nbsp
+<a href="https://www.linkedin.com/in/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/instagram.png" /></a></p>
 
 
 ## Goals 2021
