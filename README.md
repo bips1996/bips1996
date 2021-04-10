@@ -6,7 +6,7 @@
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
-[Click me](http://www.google.com){: .btn}
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 
 
