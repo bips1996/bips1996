@@ -5,7 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
-{% include button.html url="http://www.google.com" %}
+
+<button type="button" name="button" class="btn">Button element</button>
 
 ## Goals 2021
 - Read Sapiens
