@@ -22,11 +22,8 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 - Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
 - Avoid Corona😊 +Travel a new place✈.
 
-
-
-
 ## Current Status
-- 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a>🖥️ <br>
+- 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a> <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Skills
 
@@ -37,9 +34,6 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 | Python | Postgres | Fast Api | DVC | GOCD |
 | Java Script | MongoDB | React | | |
 
-## Project Dashboard
-
-
 ## Git stats
 
 <p>
@@ -47,11 +41,3 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 <img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&hide=css,html,Jupyter Notebook&show_icons=true&theme=vue"/>
 </p>
 <br><br><br><br><br><br><br><br><br><br>
-
-## Connect with me 
-<p >
-    <a href="https://biplabas.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="bips1996_" height="30" width="30" /></a>
-    <a href="https://www.linkedin.com/in/bips96/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bips1996" height="30" width="30" /></a>
-    <a href="https://www.facebook.com/biplab.sam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bips1996" height="30" width="30" /></a>
-    <a href="https://www.instagram.com/i_am__biplab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bips1996" height="30" width="30" /></a>
-</p>
