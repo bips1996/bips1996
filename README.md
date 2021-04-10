@@ -7,7 +7,11 @@
 I'm a Full stack Developer, conservationist and competitive coder!
 
 <p>
-<a target="_blank"href="https://www.linkedin.com/in/harshcasper"><img height=20em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
+<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
+<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
+<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
+<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
+<a href="https://www.linkedin.com/in/"><img height=30em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
 
 
 ## Goals 2021
