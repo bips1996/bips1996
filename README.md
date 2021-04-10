@@ -6,7 +6,7 @@
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
-![my resume](http://example.com/) {: .btn .btn-green }
+[![my resume](http://example.com/)]
 
 
 
