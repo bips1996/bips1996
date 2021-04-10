@@ -6,7 +6,7 @@
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
 
-<button name="button" onclick="http://www.google.com">Click me</button>
+{% include button.html url="http://www.google.com" %}
 
 
 
