@@ -8,7 +8,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 
 <p>
     
-[![Resume](https://badges.openbase.io/js/rating/theabbie.svg)]()
+[![Resume]()]()
 
 
 ## Goals 2021
