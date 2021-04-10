@@ -7,7 +7,9 @@
 I'm a Full stack Developer, conservationist and competitive coder!
 
 <p>
-<button type="button" name="button" class="btn">Button element</button></p>
+    
+[![Resume](https://badges.openbase.io/js/rating/theabbie.svg)](https://openbase.io/js/theabbie?utm_source=embedded&utm_medium=badge&utm_campaign=rate-badge)
+
 
 ## Goals 2021
 - Read Sapiens
