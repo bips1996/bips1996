@@ -15,13 +15,13 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 <a href="https://www.facebook.com/biplab.sam"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/facebook.png" /></a>&nbsp &nbsp
 <a href="https://www.instagram.com/i_am__biplab"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/instagram.png" /></a></p>
 
-
+<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
 ## Goals 2021
 - Read Sapiens
 - Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
 - Avoid Corona😊 +Travel a new place✈.
 
-<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 
 ## Current Status
