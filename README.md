@@ -28,12 +28,12 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 
 <p align="center">
     
-| Languages |  DBMS  |     Web Services    |    Version Control    |    Libraries    |     Others   |
-| :---       |    :----:   |          :---:   | :----:           | :---:  | ---:  |
-| `C++` | `MySQL` | `Node JS` | `Github` | `Numpy` | `MLFlow` |
-| `Java` | `SQLite` | `GraphQL` | `Bitbucket` | `Pandas` | `Docker` |
-| `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
-| `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
+    | Languages |  DBMS  |     Web Services    |    Version Control    |    Libraries    |     Others   |
+    | :---       |    :----:   |          :---:   | :----:           | :---:  | ---:  |
+    | `C++` | `MySQL` | `Node JS` | `Github` | `Numpy` | `MLFlow` |
+    | `Java` | `SQLite` | `GraphQL` | `Bitbucket` | `Pandas` | `Docker` |
+    | `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
+    | `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
 
 </p>
     
