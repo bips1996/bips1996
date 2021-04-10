@@ -32,7 +32,8 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 | C++ | MySQL | Node JS | Github | MLFlow |
 | Java | SQLite | GraphQL | Bitbucket | Docker |
 | Python | Postgres | Fast Api | DVC | GOCD |
-| Java Script | MongoDB | React | | |  
+| Java Script | MongoDB | React | | | 
+    
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
