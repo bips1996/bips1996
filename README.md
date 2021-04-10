@@ -8,7 +8,7 @@ I'm a Full stack Developer, conservationist and competitive coder!
 
 
 <span class="fs-3">
-[my resume](http://example.com/){: .btn .btn-green }
+![my resume](http://example.com/) {: .btn .btn-green }
 </span>
 
 
