@@ -4,9 +4,8 @@
 <h1>Biplaba Samantaray <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a> </h1>
-<span style="color: #f2cf4a; font-family: Babas;">
 I'm a Full stack Developer, conservationist and competitive coder!
-I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.</span>
+I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.
 <br><br>
 <p align="center">
 <a href="https://github.com/bips1996/Resume/blob/main/Biplaba_Resume.pdf"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
@@ -28,7 +27,7 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Technology Stack <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-| Languages      | DBMS        | Web Services     | Version Control | Libraries | Others |
+|`     Languages    `|`     DBMS    `|`     Web Services    `|`    Version Control    `|`    Libraries    `|`     Others   `|
 | :---           |    :----:   |          :---:   | :----:           | :---:  | ---:  |
 | C++ | MySQL | Node JS | Github | Numpy | MLFlow |
 | Java | SQLite | GraphQL | Bitbucket | Pandas | Docker |
