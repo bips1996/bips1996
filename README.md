@@ -7,8 +7,7 @@
 I'm a Full stack Developer, conservationist and competitive coder!
 
 <p>
-    
-[![Resume](https://github.com/bips1996/bips1996/blob/master/icons/resume.png)]()
+<a target="_blank"href="https://www.linkedin.com/in/harshcasper"><img height=5em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a></p>
 
 
 ## Goals 2021
