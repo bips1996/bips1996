@@ -5,6 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
+I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.
 
 
 <p>
