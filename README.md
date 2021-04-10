@@ -4,7 +4,7 @@
 <h1>Biplaba Samantaray <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a> </h1>
-<code>
+
 I'm a Full stack Developer, conservationist and competitive coder!
 I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.
 <br><br>
@@ -36,7 +36,6 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 | Java Script | MongoDB | React | | Socket.io | | 
     
 
-</code>
 ## Git stats
 
 <p>
