@@ -27,12 +27,12 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Skills
 
-| Languages      | DBMS        | Web Services     | Version Control | Others |
-| :---           |    :----:   |          :---:   | :----:           | :---:  |
-| C++ | MySQL | Node JS | Github | MLFlow |
-| Java | SQLite | GraphQL | Bitbucket | Docker |
-| Python | Postgres | Fast Api | DVC | GOCD |
-| Java Script | MongoDB | React | | | 
+| Languages      | DBMS        | Web Services     | Version Control | Libraries | Others |
+| :---           |    :----:   |          :---:   | :----:           | :---:  | ---:  |
+| C++ | MySQL | Node JS | Github | Numpy | MLFlow |
+| Java | SQLite | GraphQL | Bitbucket | Pandas | Docker |
+| Python | Postgres | Fast Api | DVC | STL | GOCD |
+| Java Script | MongoDB | React | | Socket.io | | 
     
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
