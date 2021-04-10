@@ -5,10 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a> </h1>
 I'm a Full stack Developer, conservationist and competitive coder!
-
 {% include button.html url="http://www.google.com" %}
-
-
 
 ## Goals 2021
 - Read Sapiens
