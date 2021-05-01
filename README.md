@@ -40,6 +40,6 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 
 <p>
 <img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" />
-<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook,javascript,hack,c,c++&show_icons=true&theme=vue"/>
+<img align="left" height=180em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook,hack,c&show_icons=true&theme=vue"/>
 </p>
 <br><br><br><br><br><br><br><br><br><br>
