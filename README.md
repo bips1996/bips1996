@@ -5,7 +5,7 @@
 </a> </h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bips1996&theme=flat&row=1&margin-w=15" alt="bips1996" /></a> </p>
 I'm a Full stack Developer, conservationist and competitive coder!
-I am currently working as a software engineer at <a href = "https://bridgei2i.com/">Bridgei2i</a>.
+I am actively developing and delivering various frontend and backend modules of a NLP and CV lifecycle management tool.
 <br><br>
 
 
@@ -26,7 +26,7 @@ I am currently working as a software engineer at <a href = "https://bridgei2i.co
 - Avoid Corona😊 +Travel a new place✈.
 
 ## Current Status
-- 💻 Working as Intern -> Software development @<a href = "https://bridgei2i.com/">Bridgei2i</a> <br>
+- 💻 Working as Software Engineer @<a href = "https://bridgei2i.com/">Bridgei2i</a> <br>
 - 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
 ## Technology Stack <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
