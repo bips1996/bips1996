@@ -10,7 +10,7 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 
 <p align="center">
-<a href="https://github.com/bips1996/Resume/blob/main/Biplaba_Samantaray.pdf"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
+<a href="https://github.com/bips1996/Resume/blob/main/Biplaba Samantaray.pdf"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
 <a href="https://biplabas.com"><img height=27em src="https://github.com/bips1996/bips1996/blob/master/icons/portfolio.png" /></a> &nbsp &nbsp
 <a href=mailto: samantaraybiplaba@gmail.com"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/email.png" /></a> &nbsp &nbsp
 <a href="https://www.linkedin.com/in/bips96/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/linkedin.png" /></a> &nbsp &nbsp
