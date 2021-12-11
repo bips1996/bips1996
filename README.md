@@ -6,6 +6,7 @@
 I'm a Full stack Developer, conservationist and competitive coder!
 I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.
 <br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bips1996" alt="bips1996" /></a> </p
 <p align="center">
 <a href="https://github.com/bips1996/Resume/blob/main/Biplaba_Resume.pdf"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/resume.png" /></a> &nbsp &nbsp
 <a href="https://biplabas.com"><img height=27em src="https://github.com/bips1996/bips1996/blob/master/icons/portfolio.png" /></a> &nbsp &nbsp
@@ -13,6 +14,7 @@ I am currently perusing Master of Computer Application at <a href = "https://uoh
 <a href="https://www.linkedin.com/in/bips96/"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/linkedin.png" /></a> &nbsp &nbsp
 <a href="https://www.facebook.com/biplab.sam"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/facebook.png" /></a>&nbsp &nbsp
 <a href="https://www.instagram.com/i_am__biplab"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/instagram.png" /></a></p>
+                                                                                                                                            
 
 <img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="450" height="300" />
 
