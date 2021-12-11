@@ -4,8 +4,8 @@
     <img src="https://komarev.com/ghpvc/?username=bips1996">
 </a> </h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bips1996&theme=flat&row=1&margin-w=15" alt="bips1996" /></a> </p>
-I'm a Full stack Developer, conservationist and competitive coder!
-I am actively developing and delivering various frontend and backend modules of a NLP and CV lifecycle management tool.
+I'm a Full stack Developer, conservationist and competitive coder!<br>
+I am actively working on various frontend and backend modules of a NLP and CV lifecycle management tool.
 <br><br>
 
 
