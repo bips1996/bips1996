@@ -5,7 +5,7 @@
 </a> </h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=bips1996&theme=flat&row=1&margin-w=15" alt="bips1996" /></a> </p>
 I'm a Full stack Developer, conservationist and competitive coder!
-I am currently perusing Master of Computer Application at <a href = "https://uohyd.ac.in/">University of Hyderabad</a> as well as working as a intern at <a href = "https://bridgei2i.com/">Bridgei2i</a> in the area of software development.
+I am currently working as a software engineer at <a href = "https://bridgei2i.com/">Bridgei2i</a>.
 <br><br>
 
 
