@@ -20,9 +20,9 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 <img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Goals 2021
+## Goals 2022
 - Read Sapiens
-- Learn Cloud(AWS+GCP) , CI/CD(Devops+GOCD) ,
+- Learn Cloud infrastructure,
 - Avoid Corona😊 +Travel a new place✈.
 
 ## Current Status
