@@ -33,14 +33,6 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 | `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
 | `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
 
-
-
-
-Language | `C++` | `MySQL` | `Node JS` | `Github` | `Numpy` | `MLFlow` |
- dsd| `Java` | `SQLite` | `GraphQL` | `Bitbucket` | `Pandas` | `Docker` |
- a | `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
- v | `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
-
     
 
 ## Git stats
@@ -50,7 +42,7 @@ Language | `C++` | `MySQL` | `Node JS` | `Github` | `Numpy` | `MLFlow` |
 <img align="right" height=180em width="40%" src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Bips1996&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php'>
 </p>
 <p align="center>
-    <img align="center" src ='https://github-readme-streak-stats.herokuapp.com?user=Bips1996&theme=darcula&hide_border=true&background=FFFFFF00'>
+    <img align="center" height=180em src ='https://github-readme-streak-stats.herokuapp.com?user=Bips1996&theme=darcula&hide_border=true&background=FFFFFF00'>
 </p>
 
 <!-- <p>
