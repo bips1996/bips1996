@@ -28,10 +28,10 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 | Languages |  DBMS  |     Web Services    |    Version Control    |    Libraries    |     Others   |
 | :---       |    :----:   |          :---:   | :----:           | :---:  | ---:  |
-| `C++` | `MySQL` | `Node JS` | `Github` | `Numpy` | `MLFlow` |
+| `C++` | `MySQL` | `Postgres` | `Github` | `Numpy` | `MLFlow` |
 | `Java` | `SQLite` | `GraphQL` | `Bitbucket` | `Pandas` | `Docker` |
 | `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
-| `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
+| `Java Script` | `MongoDB` | `Koa` | | `Socket.io` | | 
 
     
 
