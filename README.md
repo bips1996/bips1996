@@ -20,14 +20,10 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 <img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Goals 2022
-- Read Sapiens
-- Learn Cloud infrastructure,
-- Avoid Corona😊 +Travel a new place✈.
 
-## Current Status
-- 💻 Working as Software Engineer @<a href = "https://bridgei2i.com/">Bridgei2i</a> <br>
-- 🤘 Looking to collaborate with algorithm & data structure enthusiasts<br><br>
+## Status
+- 💻 Working as Software Engineer @<a href = "https://www.newtonclassroom.com/">Newton Classroom</a> <br>
+- 🤘 Looking to collaborate with problem solving enthusiasts<br><br>
 ## Technology Stack <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 | Languages |  DBMS  |     Web Services    |    Version Control    |    Libraries    |     Others   |
@@ -38,6 +34,13 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 | `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
 
 
+
+
+Language | `C++` | `MySQL` | `Node JS` | `Github` | `Numpy` | `MLFlow` |
+ dsd| `Java` | `SQLite` | `GraphQL` | `Bitbucket` | `Pandas` | `Docker` |
+ a | `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
+ v | `Java Script` | `MongoDB` | `React` | | `Socket.io` | | 
+
     
 
 ## Git stats
@@ -46,9 +49,9 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 <img align="right" height=180em width="40%" src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Bips1996&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php'>
 </p>
-<center>
+<p align="center>
     <img align="center" src ='https://github-readme-streak-stats.herokuapp.com?user=Bips1996&theme=darcula&hide_border=true&background=FFFFFF00'>
-</center>
+</p>
 
 <!-- <p>
 <img align="right" height=180em width = "50%" src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" />
