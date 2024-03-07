@@ -18,7 +18,7 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 <a href="https://www.instagram.com/i_am__biplab"><img height=25em src="https://github.com/bips1996/bips1996/blob/master/icons/instagram.png" /></a></p>
                                                                                                                                             
 
-<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="100" height="300" />
 
     
 
