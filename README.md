@@ -26,12 +26,12 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 <p>
 <img align="left" height=180em width="50%" src ='https://github-readme-stats.vercel.app/api?username=Bips1996&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000'>
 
-<img align="right" height=180em width="40%" src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Bips1996&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php'>
+<img align="left" height=180em width="40%" src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Bips1996&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php'>
 </p>
 
 
 <!-- <p>
-<img align="right" height=180em width = "50%" src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" />
+<img align="left" height=180em width = "50%" src="https://github-readme-stats.vercel.app/api?username=bips1996&show_icons=true&include_all_commits=true&theme=vue" alt="Biplaba's github stats" />
 <img align="left" height=180em width = "40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bips1996&layout=compact&hide=css,html,Jupyter Notebook,hack,PHP,c&show_icons=true&theme=vue"/>
 </p> -->
 <br><br><br><br><br><br><br><br><br><br>
