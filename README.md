@@ -20,11 +20,6 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 
 <img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="450" height="300" />
 
-
-## Status
-- 💻 Working as Software Engineer @<a href = "https://www.newtonclassroom.com/">Newton Classroom</a> <br>
-- 🤘 Looking to collaborate with problem solving enthusiasts<br><br>
-
     
 
 ## Git stats
