@@ -23,8 +23,9 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 <img align="left" height=180em width="50%" src ='https://github-readme-stats.vercel.app/api?username=Bips1996&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000'>
 
 <img align="left" height=180em width="50%" src ='https://github-readme-stats.vercel.app/api/top-langs/?username=Bips1996&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php'>
-<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="40%" height="auto" />
 </p>
+
+<img align="right" alt="GIF" src="https://github.com/bips1996/bips1996/blob/master/code.gif?raw=true" width="40%" height="auto" />
 
 
 
