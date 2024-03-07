@@ -24,14 +24,6 @@ I am actively working on various frontend and backend modules of a NLP and CV li
 ## Status
 - 💻 Working as Software Engineer @<a href = "https://www.newtonclassroom.com/">Newton Classroom</a> <br>
 - 🤘 Looking to collaborate with problem solving enthusiasts<br><br>
-## Technology Stack <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-| Languages |  DBMS  |     Web Services    |    Version Control    |    Libraries    |     Others   |
-| :---       |    :----:   |          :---:   | :----:           | :---:  | ---:  |
-| `C++` | `MySQL` | `Postgres` | `Github` | `Numpy` | `MLFlow` |
-| `Java` | `SQLite` | `GraphQL` | `Bitbucket` | `Pandas` | `Docker` |
-| `Python` | `Postgres` | `Fast Api` | `DVC` | `STL` | `GOCD` |
-| `Java Script` | `MongoDB` | `Koa` | | `Socket.io` | | 
 
     
 
